@@ -14,10 +14,10 @@ Add the following content to your config.json:
 }
 ````
 with:
-* *accessory* set to "SR201Relay"
-* *name* your module name
-* *address* the ip address of the module
-* *index* the relay you wish to manage on your module (starting from 1)
+* *accessory*: set to "SR201Relay"
+* *name*: your module name
+* *address*: the ip address of the module
+* *index*: the relay you wish to manage on your module (starting from 1)
 
 
 ## Licensing

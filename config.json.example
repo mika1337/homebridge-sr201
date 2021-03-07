@@ -1,0 +1,6 @@
+{
+  "name": "My SR201 Relay",
+  "accessory": "SR201Relay",
+  "address": "192.168.1.100",
+  "index": 1
+}

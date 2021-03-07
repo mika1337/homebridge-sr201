@@ -3,6 +3,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## References
+Credits to [`cryxli/sr201`](https://github.com/cryxli/sr201) for protocol details.
+
 ## Usage
 Add the following content to your config.json:
 ````

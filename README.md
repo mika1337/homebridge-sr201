@@ -1,4 +1,4 @@
-# homebridge-tools
+# homebridge-sr201
 [Homebridge](https://homebridge.io) plugin for SR201 relay.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

@@ -1,14 +1,14 @@
 {
   "displayName": "SR201 plugin",
   "name": "homebridge-sr201",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SR201 plugin for homebridge.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin","homebridge","sr201"
   ],
   "engines": {
     "homebridge": ">=0.2.5"

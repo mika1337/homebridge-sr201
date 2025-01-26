@@ -1,7 +1,7 @@
 {
   "displayName": "SR201 plugin",
   "name": "homebridge-sr201",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SR201 plugin for homebridge.",
   "main": "index.js",
   "scripts": {
